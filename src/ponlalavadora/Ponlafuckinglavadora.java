@@ -1,5 +1,5 @@
 package ponlalavadora;
 
-public class Ponlafuckinglavadora {
+public class Ponlafuckinglavadodra {
     
 }
